@@ -1,10 +1,11 @@
-<h1 align="center">
-  Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Keli Mbithi
-</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Python+developer;Fullstack+web+developer;Mobile+app+developer+-+Flutter;AI+and+machine+learning+enthusiast;Oh%2C+I+play+chess+too!+%F0%9F%98%84" alt="Typing SVG" /></a>
 </p>
+
+
+<h1 align="center">
+  Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Keli Mbithi
+</h1>
 
 Once upon a time, *when Snake on a Nokia was the ultimate mobile game*, I joined university to study Computer Science. Little did I know, I was signing up for a lifelong relationship with code ―― one that comes with occasional all-nighters, endless debugging, impostor syndrome, burnouts, and that one semicolon that ruins your day. 😂
 
