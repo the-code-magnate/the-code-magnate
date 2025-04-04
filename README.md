@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-  Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Keli Mbithi
+  Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Code Magnate
 </h1>
 
 Once upon a time, *when Snake on a Nokia was the ultimate mobile game*, I joined university to study Computer Science. Little did I know, I was signing up for a lifelong relationship with code ―― one that comes with occasional all-nighters, endless debugging, impostor syndrome, burnouts, and that one semicolon that ruins your day. 😂
@@ -18,7 +18,6 @@ When I'm not debugging like Sherlock, you’ll find me flirting with ML as I tra
 *   🧠  I'm currently learning machine learning using Python's library Scikit-learn and mobile app development (android & iOS) using Flutter
 *   🤝  I'm open to collaborating on interesting projects (Django, Django REST, FastAPI and Flutter)
 *   ⚡  Hobbies: drawing, hiking, reading or playing chess ♟️
-*   🖥️  See my portfolio at [Mori Keli's portfolio](https://morikeli.onrender.com)
 
 ### Skills 
 | Skills | Tech stack | Info |
